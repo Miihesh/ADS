@@ -1,0 +1,1 @@
+Only one script here which will perform the data manipulation. PowerPoint presentation is also saved here.
